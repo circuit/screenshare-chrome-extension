@@ -1,0 +1,27 @@
+{
+  "name": "Screenshare for Circuit SDK (by Unify)",
+  "version": "1.1.3300",
+  "description": "Allow sharing the screen or a specific application when using the Circuit SDK by Unify.",
+  "short_name": "Circuit Screenshare",
+  "manifest_version": 2,
+  "permissions": [
+    "desktopCapture",
+    "tabs",
+    "https://*/*"
+  ],
+  "background": {
+    "page": "background.html",
+    "persistent": true
+  },
+  "page_action": {
+     "default_icon": {
+        "19": "img/circuit_19x19.png",
+        "38": "img/circuit_38x38.png"
+      },
+      "default_title": "Circuit"
+  },
+    "icons": {
+    "16": "img/circuit_128x128.png",
+    "128": "img/circuit_128x128.png"
+  }
+}
