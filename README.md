@@ -3,8 +3,8 @@
 If you are using the [Circuit SDK](https://circuitsandbox.net/sdk) in your web application and would like to provide your users the capability to share the screen or an application, then you are at the right place.
 
 You have two options:
-1. Use this exact extension from the Chrome WebStore which is branded as Circuit SDK and requires wildcard permissions
-2. Clone this repo and brand it for your web application and limit the premissions to your domain
+* Use this exact extension from the Chrome WebStore which is branded as Circuit SDK and requires wildcard permissions
+* Clone this repo and brand it for your web application and limit the premissions to your domain
 
 The first option is the simplest and probably enough to play with screenshare. But once you productize your application, you may want to brand it with your name and icon, and more importantly change the wildcard permissions to only allow your domain.
 
@@ -38,10 +38,10 @@ Read [Publish your app](https://developer.chrome.com/webstore/publish) for instr
 
 ## Resources
 
-[Circuit](https://circuit.com)
-[Circuit Developer Portal](https://developers.circuit.com)
-[Circuit Developer Registration](https://developers.circuit.com/registration)
-[Circuit SDK Documentation](https://circuitsandbox.net/sdk)
-[Circuit SDK Codepen examples](http://codepen.io/circuit/)
-[Circuit on Github](https://github.com/yourcircuit)
-[What are extensions](https://developer.chrome.com/extensions)
+* [Circuit](https://circuit.com)
+* [Circuit Developer Portal](https://developers.circuit.com)
+* [Circuit Developer Registration](https://developers.circuit.com/registration)
+* [Circuit SDK Documentation](https://circuitsandbox.net/sdk)
+* [Circuit SDK Codepen examples](http://codepen.io/circuit/)
+* [Circuit on Github](https://github.com/yourcircuit)
+* [What are extensions](https://developer.chrome.com/extensions)
