@@ -26,7 +26,7 @@ Navigate to `chrome://extensions`, enable `Developer mode`, click `Load your unp
 
 ## Run the screenshare example
 
-A screenshare example is available [here](https://github.com/yourcircuit/js-sdk) with a live example [here](https://rawgit.com/yourcircuit/js-sdk/master/screenshare.html).
+A screenshare example is available [here](https://github.com/yourcircuit/js-sdk) with a live example [here](https://rawgit.com/circuit/circuit-sdk/master/examples/js/groupcall.html).
 
 
 ## Productize your branded extension
@@ -40,8 +40,7 @@ Read [Publish your app](https://developer.chrome.com/webstore/publish) for instr
 
 * [Circuit](https://circuit.com)
 * [Circuit Developer Portal](https://developers.circuit.com)
-* [Circuit Developer Registration](https://developers.circuit.com/registration)
+* [Circuit Developer Registration](https://yourcircuit.typeform.com/to/sxOjAg)
 * [Circuit SDK Documentation](https://circuitsandbox.net/sdk)
-* [Circuit SDK Codepen examples](http://codepen.io/circuit/)
-* [Circuit on Github](https://github.com/yourcircuit)
+* [Circuit on Github](https://github.com/circuit)
 * [What are extensions](https://developer.chrome.com/extensions)
