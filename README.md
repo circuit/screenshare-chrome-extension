@@ -1,3 +1,15 @@
+# Deprecated - not needed anymore starting Chrome 73
+Since Chrome 73, an extension is not needed anymore to access the desktop stream.
+
+
+
+
+
+
+
+
+-----------------
+
 # Chrome Extension for Circuit SDK Screenshare
 
 If you are using the [Circuit SDK](https://circuitsandbox.net/sdk) in your web application and would like to provide your users the capability to share the screen or an application, then you are at the right place.
